@@ -1,0 +1,90 @@
+/* NewsItem.css */
+.card-container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: 350px;
+    height: 480px;
+    margin: 1.25rem;
+    border: 1px solid #e0e0e0;
+    border-radius: 8px;
+    box-shadow: 0px 2px 4px rgba(0, 0, 0, 0.1);
+    transition: transform 0.2s;
+    position: relative; /* Required for ribbon positioning */
+}
+
+.card-container:hover {
+    transform: translateY(-5px);
+}
+
+.card-image {
+    width: 100%;
+    max-height: 200px;
+    object-fit: cover;
+    border-top-left-radius: 8px;
+    border-top-right-radius: 8px;
+    position: relative; /* Required for stacking */
+}
+
+.card-body {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    padding: 1rem;
+    width: 100%;
+}
+
+.card-body h5 {
+    font-size: 1.25rem;
+    margin: 0;
+    color: #333;
+}
+
+.card-body p {
+    margin: 0.5rem 0;
+    color: #666;
+}
+
+.small-text {
+    font-size: 0.85rem;
+    color: #888;
+}
+
+.read-more-link {
+    background-color: #007bff;
+    color: #fff;
+    padding: 0.5rem 1rem;
+    text-decoration: none;
+    border-radius: 4px;
+    transition: background-color 0.2s;
+    position: absolute;
+    bottom: 1rem;
+    right: 1rem;
+}
+
+.read-more-link:hover {
+    background-color: #0056b3;
+}
+
+/* Ribbon styles */
+.ribbon {
+    position: absolute;
+    top: 0;
+    left: 0;
+    background-color: orange; /* Ribbon color */
+    color: white;
+    padding: 0.5rem 1rem;
+    z-index: 1;
+    border-top-left-radius: 8px;
+}
+
+@media screen and (max-width: 838px){
+    .card-container {
+        width: 270px;
+        height: 370px;
+    }
+    .card-body h5, .card-body p, .small-text, .read-more-link {
+     font-size: 75%;
+    }
+ 
+}
