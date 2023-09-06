@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/newsly/static/css/main.2fe3c0e6.css",
+    "main.js": "/newsly/static/js/main.710773c7.js",
+    "static/media/spinner.gif": "/newsly/static/media/spinner.f6207267cedc701cb3ca.gif",
+    "index.html": "/newsly/index.html",
+    "main.2fe3c0e6.css.map": "/newsly/static/css/main.2fe3c0e6.css.map",
+    "main.710773c7.js.map": "/newsly/static/js/main.710773c7.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2fe3c0e6.css",
+    "static/js/main.710773c7.js"
+  ]
+}
