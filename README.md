@@ -1,70 +1,53 @@
-# Getting Started with Create React App
+# News App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## Project Overview
 
-## Available Scripts
+I developed a simple React-based news application that allows users to browse and read the latest news articles. This project demonstrates my proficiency in front-end development and working with external APIs.
 
-In the project directory, you can run:
+## Features Implemented
 
-### `npm start`
+- Latest News: View the latest top headlines in real-time.
+- Infinite Scrolling: Load more articles as you scroll down, providing a seamless browsing experience.
+- Category Filter: Customize your news feed by selecting from various categories such as Business, Entertainment, Health, Science, Sports, and Technology.
+- Full Article Read: Click on news articles to read the complete content.
+- Responsive Design: Enjoy a consistent and user-friendly interface on different screen sizes and devices.
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+## Technologies Used
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+- React: A powerful JavaScript library for building user interfaces.
+- react-infinite-scroll-component: A React component that enables infinite scrolling.
+- Fetch API: The project uses the built-in Fetch API for making HTTP requests to retrieve data from external APIs.
 
-### `npm test`
+## Getting Started
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+To start using this project, follow these simple steps:
 
-### `npm run build`
+### Clone the repository to your local machine:
+git clone https://github.com/ankushekapure/newsly.git
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+### Navigate to the project directory:
+cd newsly
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+### Install the required dependencies:
+npm install
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+### Create an environment variable file (.env) in the root directory of the project and add your News API key:
+REACT_APP_NEWS_API_KEY=YOUR_API_KEY
 
-### `npm run eject`
+### Start the development server:
+npm start
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+### Open your browser and navigate to http://localhost:3000 to view the News App.
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+## Usage
+- Select a news category to browse articles.
+- Scroll down to load more articles (Infinite Scroll).
+- Click on an article to view its details.
+- Enjoy staying updated with the latest news!
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+## License
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+## Contact
+For any inquiries or feedback regarding this project, please contact me at [asekapure@gmail.com](mailto:asekapure@gmail.com).
 
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
