@@ -17,6 +17,9 @@
     background-color: orange;
     border-top-left-radius: 0.938rem;
     border-top-right-radius: 0.938rem;
+    position: sticky;
+    top: 0;
+    z-index: 100;
 }
 
 /* Hamburger Menu */

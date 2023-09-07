@@ -3,7 +3,7 @@ import './NewsItem.css';
 
 const NewsItem = (props) => {
     // Destructuring props for easy access
-    let { title, description, imgUrl, newsUrl, author, date, acategory } = props;
+    let { title, description, imgUrl, newsUrl, author, date, category } = props;
 
     return (
         <div className='card-container'>
@@ -12,8 +12,8 @@ const NewsItem = (props) => {
             <img src={imgUrl} className="card-image" alt="" />
 
             {/* Ribbon */}
-            {acategory &&
-            <div className="ribbon">{acategory}</div>
+            {category &&
+            <div className="ribbon">{category}</div>
             }
             <div className="card-body">
                 {/* Display the news title */}
