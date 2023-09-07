@@ -283,270 +283,270 @@ const News = (props) => {
 
         business: {
             "status": "ok",
-                "totalResults": 70,
-                "articles": [
-                    {
-                        "source": {
-                            "id": null,
-                            "name": "CarToq.com"
-                        },
-                        "author": "Ajeesh Kuttan, Vikas Kaul",
-                        "title": "Tata Nexon EV Facelift: New teaser video released before launch - CarToq.com",
-                        "description": "empty",
-                        "url": "https://www.cartoq.com/tata-nexon-ev-facelift-new-teaser-video-released-before-launch/",
-                        "urlToImage": "https://www.cartoq.com/wp-content/uploads/2023/09/tata-nexon-ev-teaser-featured.jpg",
-                        "publishedAt": "2023-09-05T11:42:46Z",
-                        "content": "Tata is one of the leading car manufacturers in the country, known for its build quality. Tata is also a leading electric car manufacturer in India now, currently offering the Nexon, Tigor, and Tiago… [+2950 chars]"
+            "totalResults": 70,
+            "articles": [
+                {
+                    "source": {
+                        "id": null,
+                        "name": "CarToq.com"
                     },
-                    {
-                        "source": {
-                            "id": null,
-                            "name": "CNBCTV18"
-                        },
-                        "author": "Yash Jain",
-                        "title": "SEBI may implement one-hour settlement of trades by March 2024, instantaneous settlement by Oct 2024 - CNBCTV18",
-                        "description": "These proposed changes signify a major shift in the Indian stock market landscape, with an emphasis on reducing settlement times and enhancing investor convenience.",
-                        "url": "https://www.cnbctv18.com/market/stocks/sebi-to-implement-one-hour-settlement-of-trades-by-march-2024-instantaneous-by-oct-2024-17722631.htm",
-                        "urlToImage": "https://images.cnbctv18.com/wp-content/uploads/2023/02/Stock-markets-exchange-data-960x573.jpg",
-                        "publishedAt": "2023-09-05T10:33:04Z",
-                        "content": "empty"
+                    "author": "Ajeesh Kuttan, Vikas Kaul",
+                    "title": "Tata Nexon EV Facelift: New teaser video released before launch - CarToq.com",
+                    "description": "empty",
+                    "url": "https://www.cartoq.com/tata-nexon-ev-facelift-new-teaser-video-released-before-launch/",
+                    "urlToImage": "https://www.cartoq.com/wp-content/uploads/2023/09/tata-nexon-ev-teaser-featured.jpg",
+                    "publishedAt": "2023-09-05T11:42:46Z",
+                    "content": "Tata is one of the leading car manufacturers in the country, known for its build quality. Tata is also a leading electric car manufacturer in India now, currently offering the Nexon, Tigor, and Tiago… [+2950 chars]"
+                },
+                {
+                    "source": {
+                        "id": null,
+                        "name": "CNBCTV18"
                     },
-                    {
-                        "source": {
-                            "id": null,
-                            "name": "Entrackr"
-                        },
-                        "author": "Entrackr",
-                        "title": "Pepperfry names new CEO, raises $23 Mn in recent funding - Entrackr",
-                        "description": null,
-                        "url": "https://entrackr.com/2023/09/pepperfry-names-new-ceo-raises-23-mn-in-recent-funding/",
-                        "urlToImage": null,
-                        "publishedAt": "2023-09-05T10:06:49Z",
-                        "content": null
+                    "author": "Yash Jain",
+                    "title": "SEBI may implement one-hour settlement of trades by March 2024, instantaneous settlement by Oct 2024 - CNBCTV18",
+                    "description": "These proposed changes signify a major shift in the Indian stock market landscape, with an emphasis on reducing settlement times and enhancing investor convenience.",
+                    "url": "https://www.cnbctv18.com/market/stocks/sebi-to-implement-one-hour-settlement-of-trades-by-march-2024-instantaneous-by-oct-2024-17722631.htm",
+                    "urlToImage": "https://images.cnbctv18.com/wp-content/uploads/2023/02/Stock-markets-exchange-data-960x573.jpg",
+                    "publishedAt": "2023-09-05T10:33:04Z",
+                    "content": "empty"
+                },
+                {
+                    "source": {
+                        "id": null,
+                        "name": "Entrackr"
                     },
-                    {
-                        "source": {
-                            "id": null,
-                            "name": "Moneycontrol"
-                        },
-                        "author": "Sunil Shankar Matkar",
-                        "title": "Ratnaveer Precision Engineering IPO | Issue subscribed 21.8 times on day 2 - Moneycontrol",
-                        "description": "The stainless steel-based products manufacturer aims to mop up Rs 165.03 crore via public offering, at the upper price band.",
-                        "url": "https://www.moneycontrol.com/news/business/ipo/ratnaveer-precision-engineering-ipo-day-2-investors-bought-15-88-times-the-issue-size-11314921.html",
-                        "urlToImage": "https://images.moneycontrol.com/static-mcnews/2021/08/bearnings-1-770x433.jpg",
-                        "publishedAt": "2023-09-05T09:37:46Z",
-                        "content": "Ratnaveer Precision Engineering IPO remained on investors' radar as they put in bids for 25.69 crore equity shares, which were 21.8 times the issue size of 1.17 crore on September 5, the second day o… [+1639 chars]"
+                    "author": "Entrackr",
+                    "title": "Pepperfry names new CEO, raises $23 Mn in recent funding - Entrackr",
+                    "description": null,
+                    "url": "https://entrackr.com/2023/09/pepperfry-names-new-ceo-raises-23-mn-in-recent-funding/",
+                    "urlToImage": null,
+                    "publishedAt": "2023-09-05T10:06:49Z",
+                    "content": null
+                },
+                {
+                    "source": {
+                        "id": null,
+                        "name": "Moneycontrol"
                     },
-                    {
-                        "source": {
-                            "id": null,
-                            "name": "Livemint"
-                        },
-                        "author": "Fareha Naaz",
-                        "title": "Dunzo delays salary further, opts for batch payments amid fundraising challenges | Mint - Mint",
-                        "description": "Dunzo, a Bengaluru-based grocery delivery startup, is facing delays in salary disbursements and will pay in batches due to fundraising challenges.",
-                        "url": "https://www.livemint.com/companies/dunzo-delays-salary-further-opts-for-batch-payments-amid-fundraising-challenges-11693896792860.html",
-                        "urlToImage": "https://www.livemint.com/lm-img/img/2023/09/05/600x338/Dunzo-had-last-raised--240-million-in-January-_1680760752267_1693903091322.jpg",
-                        "publishedAt": "2023-09-05T09:23:32Z",
-                        "content": "Dunzo, Bengaluru-based a quick grocery delivery service start-up backed by Reliance and Google, is facing delays in salary disbursements due to fundraising challenges, has opted to pay salaries in ba… [+2177 chars]"
+                    "author": "Sunil Shankar Matkar",
+                    "title": "Ratnaveer Precision Engineering IPO | Issue subscribed 21.8 times on day 2 - Moneycontrol",
+                    "description": "The stainless steel-based products manufacturer aims to mop up Rs 165.03 crore via public offering, at the upper price band.",
+                    "url": "https://www.moneycontrol.com/news/business/ipo/ratnaveer-precision-engineering-ipo-day-2-investors-bought-15-88-times-the-issue-size-11314921.html",
+                    "urlToImage": "https://images.moneycontrol.com/static-mcnews/2021/08/bearnings-1-770x433.jpg",
+                    "publishedAt": "2023-09-05T09:37:46Z",
+                    "content": "Ratnaveer Precision Engineering IPO remained on investors' radar as they put in bids for 25.69 crore equity shares, which were 21.8 times the issue size of 1.17 crore on September 5, the second day o… [+1639 chars]"
+                },
+                {
+                    "source": {
+                        "id": null,
+                        "name": "Livemint"
                     },
-                    {
-                        "source": {
-                            "id": null,
-                            "name": "Business Standard"
-                        },
-                        "author": "Business Standard",
-                        "title": "These two PSU stocks have zoomed 50% in last three days on heavy volumes - Business Standard",
-                        "description": null,
-                        "url": "https://www.business-standard.com/markets/news/this-2-psu-stocks-has-zoomed-50-in-past-three-trading-days-on-heavy-volume-123090500577_1.html",
-                        "urlToImage": null,
-                        "publishedAt": "2023-09-05T09:19:42Z",
-                        "content": null
+                    "author": "Fareha Naaz",
+                    "title": "Dunzo delays salary further, opts for batch payments amid fundraising challenges | Mint - Mint",
+                    "description": "Dunzo, a Bengaluru-based grocery delivery startup, is facing delays in salary disbursements and will pay in batches due to fundraising challenges.",
+                    "url": "https://www.livemint.com/companies/dunzo-delays-salary-further-opts-for-batch-payments-amid-fundraising-challenges-11693896792860.html",
+                    "urlToImage": "https://www.livemint.com/lm-img/img/2023/09/05/600x338/Dunzo-had-last-raised--240-million-in-January-_1680760752267_1693903091322.jpg",
+                    "publishedAt": "2023-09-05T09:23:32Z",
+                    "content": "Dunzo, Bengaluru-based a quick grocery delivery service start-up backed by Reliance and Google, is facing delays in salary disbursements due to fundraising challenges, has opted to pay salaries in ba… [+2177 chars]"
+                },
+                {
+                    "source": {
+                        "id": null,
+                        "name": "Business Standard"
                     },
-                    {
-                        "source": {
-                            "id": null,
-                            "name": "YouTube"
-                        },
-                        "author": null,
-                        "title": "2023 Royal Enfield Bullet 350 Review | Too Similar To The Classic 350? | BikeWale - BikeWale",
-                        "description": "We have tested the new Royal Enfield Bullet 350, and came away quite impressed with its performance. With the 2023 update, the new Bullet 350 has became quit...",
-                        "url": "https://www.youtube.com/watch?v=uFMJYt2SjU4",
-                        "urlToImage": "https://i.ytimg.com/vi/uFMJYt2SjU4/maxresdefault.jpg",
-                        "publishedAt": "2023-09-05T08:50:48Z",
-                        "content": null
+                    "author": "Business Standard",
+                    "title": "These two PSU stocks have zoomed 50% in last three days on heavy volumes - Business Standard",
+                    "description": null,
+                    "url": "https://www.business-standard.com/markets/news/this-2-psu-stocks-has-zoomed-50-in-past-three-trading-days-on-heavy-volume-123090500577_1.html",
+                    "urlToImage": null,
+                    "publishedAt": "2023-09-05T09:19:42Z",
+                    "content": null
+                },
+                {
+                    "source": {
+                        "id": null,
+                        "name": "YouTube"
                     },
-                    {
-                        "source": {
-                            "id": null,
-                            "name": "Business Standard"
-                        },
-                        "author": "Business Standard",
-                        "title": "Cyient surges 140% so far in CY23; Cyient DLM zooms 179% over issue price - Business Standard",
-                        "description": null,
-                        "url": "https://www.business-standard.com/markets/news/cyient-surges-140-so-far-in-cy23-cyient-dlm-zooms-179-over-issue-price-123090500470_1.html",
-                        "urlToImage": null,
-                        "publishedAt": "2023-09-05T08:11:26Z",
-                        "content": null
+                    "author": null,
+                    "title": "2023 Royal Enfield Bullet 350 Review | Too Similar To The Classic 350? | BikeWale - BikeWale",
+                    "description": "We have tested the new Royal Enfield Bullet 350, and came away quite impressed with its performance. With the 2023 update, the new Bullet 350 has became quit...",
+                    "url": "https://www.youtube.com/watch?v=uFMJYt2SjU4",
+                    "urlToImage": "https://i.ytimg.com/vi/uFMJYt2SjU4/maxresdefault.jpg",
+                    "publishedAt": "2023-09-05T08:50:48Z",
+                    "content": null
+                },
+                {
+                    "source": {
+                        "id": null,
+                        "name": "Business Standard"
                     },
-                    {
-                        "source": {
-                            "id": null,
-                            "name": "Livemint"
-                        },
-                        "author": "Livemint",
-                        "title": "Global Fintech Fest: FM Sitharaman asks financial entities to ensure customers nominate heirs | Mint - Mint",
-                        "description": "Finance Minister asks banks and financial entities to encourage customers to nominate heirs to reduce unclaimed money.",
-                        "url": "https://www.livemint.com/industry/banking/global-fintech-fest-in-mumbai-fm-nirmala-sitharaman-asks-financial-entities-to-ensure-customers-nominate-heirs-11693899478462.html",
-                        "urlToImage": "https://www.livemint.com/lm-img/img/2023/09/05/600x338/Nirmala_Sitharaman_1693899982340_1693899996608.jpg",
-                        "publishedAt": "2023-09-05T08:10:42Z",
-                        "content": "Union Finance Minister Nirmala Sitharaman on Tuesday asked banks and other financial entities to ensure that their customers nominate hiers which can help reduce the quantum of unclaimed money. Finan… [+2190 chars]"
+                    "author": "Business Standard",
+                    "title": "Cyient surges 140% so far in CY23; Cyient DLM zooms 179% over issue price - Business Standard",
+                    "description": null,
+                    "url": "https://www.business-standard.com/markets/news/cyient-surges-140-so-far-in-cy23-cyient-dlm-zooms-179-over-issue-price-123090500470_1.html",
+                    "urlToImage": null,
+                    "publishedAt": "2023-09-05T08:11:26Z",
+                    "content": null
+                },
+                {
+                    "source": {
+                        "id": null,
+                        "name": "Livemint"
                     },
-                    {
-                        "source": {
-                            "id": null,
-                            "name": "News18"
-                        },
-                        "author": "Aparna Deb",
-                        "title": "IDBI Bank Shares Rally 7% To Hit 5-Year High Today; Here's Why Is It Rising - News18",
-                        "description": "In the past two trading days, the stock has rallied 16 per cent as the government invited bids to appoint an asset valuer for IDBI Bank's divestment.",
-                        "url": "https://www.news18.com/business/markets/idbi-bank-shares-rally-7-to-hit-5-year-high-today-heres-why-is-it-rising-8564609.html",
-                        "urlToImage": "https://images.news18.com/ibnlive/uploads/2023/04/idbi-bank-168138216616x9.jpg",
-                        "publishedAt": "2023-09-05T07:55:48Z",
-                        "content": "Shares of IDBI Bank rose 7.86 per cent to Rs 70 apiece to hit the highest level in more than five years on the BSE in Tuesdays intra-day trade. The stock hit its highest level since April 2018, on th… [+2604 chars]"
+                    "author": "Livemint",
+                    "title": "Global Fintech Fest: FM Sitharaman asks financial entities to ensure customers nominate heirs | Mint - Mint",
+                    "description": "Finance Minister asks banks and financial entities to encourage customers to nominate heirs to reduce unclaimed money.",
+                    "url": "https://www.livemint.com/industry/banking/global-fintech-fest-in-mumbai-fm-nirmala-sitharaman-asks-financial-entities-to-ensure-customers-nominate-heirs-11693899478462.html",
+                    "urlToImage": "https://www.livemint.com/lm-img/img/2023/09/05/600x338/Nirmala_Sitharaman_1693899982340_1693899996608.jpg",
+                    "publishedAt": "2023-09-05T08:10:42Z",
+                    "content": "Union Finance Minister Nirmala Sitharaman on Tuesday asked banks and other financial entities to ensure that their customers nominate hiers which can help reduce the quantum of unclaimed money. Finan… [+2190 chars]"
+                },
+                {
+                    "source": {
+                        "id": null,
+                        "name": "News18"
                     },
-                    {
-                        "source": {
-                            "id": null,
-                            "name": "Zee Business"
-                        },
-                        "author": "ZeeBiz WebTeam",
-                        "title": "Raymond has given 100% returns in 1 year; analysts suggest buying the stock, say valuations compelling - Zee Business",
-                        "description": "Raymond share price: In the opening deals, the stock hit an all-time high level of Rs 2,151.20 on the BSE.",
-                        "url": "https://www.zeebiz.com/markets/stocks/news-raymond-share-price-nse-bse-sensex-nifty-jefferies-motilal-oswal-initiate-coverage-buy-252077",
-                        "urlToImage": "https://cdn.zeebiz.com/sites/default/files/2023/09/05/259204-raymond-1.jpg",
-                        "publishedAt": "2023-09-05T07:51:24Z",
-                        "content": "Raymond share price: Shares of Raymond, the established apparel brand in India, hit a record high on Tuesday (September 5), after global brokerage Jefferies and domestic broking firm Motilal Oswal Se… [+3772 chars]"
+                    "author": "Aparna Deb",
+                    "title": "IDBI Bank Shares Rally 7% To Hit 5-Year High Today; Here's Why Is It Rising - News18",
+                    "description": "In the past two trading days, the stock has rallied 16 per cent as the government invited bids to appoint an asset valuer for IDBI Bank's divestment.",
+                    "url": "https://www.news18.com/business/markets/idbi-bank-shares-rally-7-to-hit-5-year-high-today-heres-why-is-it-rising-8564609.html",
+                    "urlToImage": "https://images.news18.com/ibnlive/uploads/2023/04/idbi-bank-168138216616x9.jpg",
+                    "publishedAt": "2023-09-05T07:55:48Z",
+                    "content": "Shares of IDBI Bank rose 7.86 per cent to Rs 70 apiece to hit the highest level in more than five years on the BSE in Tuesdays intra-day trade. The stock hit its highest level since April 2018, on th… [+2604 chars]"
+                },
+                {
+                    "source": {
+                        "id": null,
+                        "name": "Zee Business"
                     },
-                    {
-                        "source": {
-                            "id": null,
-                            "name": "Moneycontrol"
-                        },
-                        "author": "Dipti Sharma",
-                        "title": "More steam left in rail stocks; RVNL, Railtel rally over 20% in one week - Moneycontrol",
-                        "description": "Shares of Rail Vikas Nigam Ltd (RVNL), Titagarh Rail Systems, Jupiter Wagons, Texmaco Rail and Engineering, IRCTC, Railtel Corporation of India and RITES have risen 5-24 percent in the past one week.",
-                        "url": "https://www.moneycontrol.com/news/business/markets/rail-stocks-chug-into-bull-zone-rvnl-railtel-gain-over-20-in-one-week-11313551.html",
-                        "urlToImage": "https://images.moneycontrol.com/static-mcnews/2023/08/Konkan-Railway-Sharavati-Bridge.jpg",
-                        "publishedAt": "2023-09-05T07:36:43Z",
-                        "content": "Railway stocks have seen a significant upswing over the past week, indicating a renewed sense of optimism in the sector. Despite the recent run-up, some market participants are worried that railway s… [+2890 chars]"
+                    "author": "ZeeBiz WebTeam",
+                    "title": "Raymond has given 100% returns in 1 year; analysts suggest buying the stock, say valuations compelling - Zee Business",
+                    "description": "Raymond share price: In the opening deals, the stock hit an all-time high level of Rs 2,151.20 on the BSE.",
+                    "url": "https://www.zeebiz.com/markets/stocks/news-raymond-share-price-nse-bse-sensex-nifty-jefferies-motilal-oswal-initiate-coverage-buy-252077",
+                    "urlToImage": "https://cdn.zeebiz.com/sites/default/files/2023/09/05/259204-raymond-1.jpg",
+                    "publishedAt": "2023-09-05T07:51:24Z",
+                    "content": "Raymond share price: Shares of Raymond, the established apparel brand in India, hit a record high on Tuesday (September 5), after global brokerage Jefferies and domestic broking firm Motilal Oswal Se… [+3772 chars]"
+                },
+                {
+                    "source": {
+                        "id": null,
+                        "name": "Moneycontrol"
                     },
-                    {
-                        "source": {
-                            "id": null,
-                            "name": "CNBCTV18"
-                        },
-                        "author": "https://www.cnbctv18.com",
-                        "title": "Stock Market LIVE Update: Nifty 50 eases gains, Infosys leads, HDFC Bank drags - CNBCTV18",
-                        "description": "Stock Market LIVE Updates: The final hour of trade has begun and Nifty 50 is showing some recovery. It has crossed the 19,550 mark and is inching towards 19,600. Sensex too is showing recovery, trading above 65,700. Nifty Bank is hovering around 44,500. Cyien…",
-                        "url": "https://www.cnbctv18.com/market/stock-market-live-update-nifty-50-key-levels-sensex-today-banks-irfc-rvnl-cipla-hero-iex-shares-17717611.htm",
-                        "urlToImage": "https://images.cnbctv18.com/wp-content/uploads/2023/08/markets-live-blog-2-1019x573.jpg",
-                        "publishedAt": "2023-09-05T07:28:57Z",
-                        "content": "Stock Market LIVE Updates | Nifty 50 At 19,549.45\r\nFinancials, auto, power, cement and telecom stocks are contributing towards Nifty50's downside, while FMCG, Oil and Gas, IT, capital goods and pharm… [+39 chars]"
+                    "author": "Dipti Sharma",
+                    "title": "More steam left in rail stocks; RVNL, Railtel rally over 20% in one week - Moneycontrol",
+                    "description": "Shares of Rail Vikas Nigam Ltd (RVNL), Titagarh Rail Systems, Jupiter Wagons, Texmaco Rail and Engineering, IRCTC, Railtel Corporation of India and RITES have risen 5-24 percent in the past one week.",
+                    "url": "https://www.moneycontrol.com/news/business/markets/rail-stocks-chug-into-bull-zone-rvnl-railtel-gain-over-20-in-one-week-11313551.html",
+                    "urlToImage": "https://images.moneycontrol.com/static-mcnews/2023/08/Konkan-Railway-Sharavati-Bridge.jpg",
+                    "publishedAt": "2023-09-05T07:36:43Z",
+                    "content": "Railway stocks have seen a significant upswing over the past week, indicating a renewed sense of optimism in the sector. Despite the recent run-up, some market participants are worried that railway s… [+2890 chars]"
+                },
+                {
+                    "source": {
+                        "id": null,
+                        "name": "CNBCTV18"
                     },
-                    {
-                        "source": {
-                            "id": null,
-                            "name": "Moneycontrol"
-                        },
-                        "author": "Moneycontrol News",
-                        "title": "Reliance Jio offers extra data, special benefits and more on its 7th anniversary - Moneycontrol",
-                        "description": "These offers will be valid on Rs 299, Rs 749 and Rs 2999 plans, the company said.",
-                        "url": "https://www.moneycontrol.com/news/business/reliance-jio-offers-extra-data-special-benefits-and-more-on-its-7th-anniversary-11313951.html",
-                        "urlToImage": "https://images.moneycontrol.com/static-mcnews/2023/01/Jio-770x433.png",
-                        "publishedAt": "2023-09-05T07:23:29Z",
-                        "content": "As part of its 7th anniversary celebration, Reliance Jio is offering extra data and vouchers on recharges done between September 5-30.\r\nThese offers will be valid on Rs 299, Rs 749 and Rs 2999 plans,… [+1432 chars]"
+                    "author": "https://www.cnbctv18.com",
+                    "title": "Stock Market LIVE Update: Nifty 50 eases gains, Infosys leads, HDFC Bank drags - CNBCTV18",
+                    "description": "Stock Market LIVE Updates: The final hour of trade has begun and Nifty 50 is showing some recovery. It has crossed the 19,550 mark and is inching towards 19,600. Sensex too is showing recovery, trading above 65,700. Nifty Bank is hovering around 44,500. Cyien…",
+                    "url": "https://www.cnbctv18.com/market/stock-market-live-update-nifty-50-key-levels-sensex-today-banks-irfc-rvnl-cipla-hero-iex-shares-17717611.htm",
+                    "urlToImage": "https://images.cnbctv18.com/wp-content/uploads/2023/08/markets-live-blog-2-1019x573.jpg",
+                    "publishedAt": "2023-09-05T07:28:57Z",
+                    "content": "Stock Market LIVE Updates | Nifty 50 At 19,549.45\r\nFinancials, auto, power, cement and telecom stocks are contributing towards Nifty50's downside, while FMCG, Oil and Gas, IT, capital goods and pharm… [+39 chars]"
+                },
+                {
+                    "source": {
+                        "id": null,
+                        "name": "Moneycontrol"
                     },
-                    {
-                        "source": {
-                            "id": null,
-                            "name": "Livemint"
-                        },
-                        "author": "Krishna Yadav",
-                        "title": "NCLT asks SpiceJet to resolve issues with lessors | Mint - Mint",
-                        "description": "On Monday, SpiceJet said it will allot 48.1 million shares on a preferential basis to nine of its aircraft lessors to clear dues worth  ₹231 crore",
-                        "url": "https://www.livemint.com/companies/news/nclt-asks-spicejet-to-resolve-issues-with-lessors-11693897415604.html",
-                        "urlToImage": "https://www.livemint.com/lm-img/img/2023/09/05/600x338/SPICEJET-RESULTS--0_1692861718098_1693898502579.JPG",
-                        "publishedAt": "2023-09-05T07:22:17Z",
-                        "content": "New Delhi: The National Company Law Tribunal on Tuesday asked SpiceJet to resolve its issues with lessors, while hearing the insolvency plea filed by Celestial Aviation. The court, which also verball… [+1878 chars]"
+                    "author": "Moneycontrol News",
+                    "title": "Reliance Jio offers extra data, special benefits and more on its 7th anniversary - Moneycontrol",
+                    "description": "These offers will be valid on Rs 299, Rs 749 and Rs 2999 plans, the company said.",
+                    "url": "https://www.moneycontrol.com/news/business/reliance-jio-offers-extra-data-special-benefits-and-more-on-its-7th-anniversary-11313951.html",
+                    "urlToImage": "https://images.moneycontrol.com/static-mcnews/2023/01/Jio-770x433.png",
+                    "publishedAt": "2023-09-05T07:23:29Z",
+                    "content": "As part of its 7th anniversary celebration, Reliance Jio is offering extra data and vouchers on recharges done between September 5-30.\r\nThese offers will be valid on Rs 299, Rs 749 and Rs 2999 plans,… [+1432 chars]"
+                },
+                {
+                    "source": {
+                        "id": null,
+                        "name": "Livemint"
                     },
-                    {
-                        "source": {
-                            "id": null,
-                            "name": "YouTube"
-                        },
-                        "author": null,
-                        "title": "George Soros who attacks Modi govt is no global supervillain, but he can't buy a better world - ThePrint",
-                        "description": "Ever since he took on Prime Minister Narendra Modi and the Adanis, hedge-fund billionaire George Soros has been cast as an enemy of India. The truth is more ...",
-                        "url": "https://www.youtube.com/watch?v=Z1GwwHZlNj4",
-                        "urlToImage": "https://i.ytimg.com/vi/Z1GwwHZlNj4/maxresdefault.jpg",
-                        "publishedAt": "2023-09-05T07:16:48Z",
-                        "content": null
+                    "author": "Krishna Yadav",
+                    "title": "NCLT asks SpiceJet to resolve issues with lessors | Mint - Mint",
+                    "description": "On Monday, SpiceJet said it will allot 48.1 million shares on a preferential basis to nine of its aircraft lessors to clear dues worth  ₹231 crore",
+                    "url": "https://www.livemint.com/companies/news/nclt-asks-spicejet-to-resolve-issues-with-lessors-11693897415604.html",
+                    "urlToImage": "https://www.livemint.com/lm-img/img/2023/09/05/600x338/SPICEJET-RESULTS--0_1692861718098_1693898502579.JPG",
+                    "publishedAt": "2023-09-05T07:22:17Z",
+                    "content": "New Delhi: The National Company Law Tribunal on Tuesday asked SpiceJet to resolve its issues with lessors, while hearing the insolvency plea filed by Celestial Aviation. The court, which also verball… [+1878 chars]"
+                },
+                {
+                    "source": {
+                        "id": null,
+                        "name": "YouTube"
                     },
-                    {
-                        "source": {
-                            "id": "reuters",
-                            "name": "Reuters"
-                        },
-                        "author": "Stephen Nellis",
-                        "title": "Qualcomm to supply BMW and Mercedes with chips for displays, voice features - Reuters",
-                        "description": "U.S. semiconductor company Qualcomm <a href=\"https://www.reuters.com/markets/companies/QCOM.O\" target=\"_blank\">(QCOM.O)</a> on Tuesday said it will supply chips to power in-car infotainment systems to luxury automakers Mercedes <a href=\"https://www.reuters.co…",
-                        "url": "https://www.reuters.com/business/autos-transportation/qualcomm-supply-bmw-mercedes-with-chips-displays-voice-features-2023-09-05/",
-                        "urlToImage": "https://www.reuters.com/resizer/od1wRqwFAMw2t9DrM5OcgMUEnxQ=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/WEKWG6KYFVL3TL3LXFST2475DY.jpg",
-                        "publishedAt": "2023-09-05T07:13:40Z",
-                        "content": "SAN FRANCISCO/MUNICH, Sept 5 (Reuters) - U.S. semiconductor company Qualcomm (QCOM.O) on Tuesday said it will supply chips to power in-car infotainment systems to luxury automakers Mercedes (MBGn.DE)… [+1790 chars]"
+                    "author": null,
+                    "title": "George Soros who attacks Modi govt is no global supervillain, but he can't buy a better world - ThePrint",
+                    "description": "Ever since he took on Prime Minister Narendra Modi and the Adanis, hedge-fund billionaire George Soros has been cast as an enemy of India. The truth is more ...",
+                    "url": "https://www.youtube.com/watch?v=Z1GwwHZlNj4",
+                    "urlToImage": "https://i.ytimg.com/vi/Z1GwwHZlNj4/maxresdefault.jpg",
+                    "publishedAt": "2023-09-05T07:16:48Z",
+                    "content": null
+                },
+                {
+                    "source": {
+                        "id": "reuters",
+                        "name": "Reuters"
                     },
-                    {
-                        "source": {
-                            "id": null,
-                            "name": "Dsij.in"
-                        },
-                        "author": "Vaishnavi Chauhan",
-                        "title": "Stock below Rs 100: Highest block deals witnessed; stock jumps more than 30 per cent in just 2 days! - Dalal Street Investment Journal",
-                        "description": "These block deals reflect a surge in investor interest in MMTC Ltd, and the substantial trading volumes could potentially influence the stock's performance in the market.",
-                        "url": "https://www.dsij.in/dsijarticledetail/stock-below-rs-100-highest-block-deals-witnessed-stock-jumps-more-than-30-per-cent-in-just-2-days-33028-1",
-                        "urlToImage": "https://www.dsij.in/Portals/0/EasyDNNnews/33028/image_3126.jpg",
-                        "publishedAt": "2023-09-05T07:11:24Z",
-                        "content": "This stock has seen remarkable buying activity, surging over 239 per cent in the last three years.\r\nMMTC Limited is a government-owned enterprise established in 1963 plays a pivotal role in India's f… [+3152 chars]"
+                    "author": "Stephen Nellis",
+                    "title": "Qualcomm to supply BMW and Mercedes with chips for displays, voice features - Reuters",
+                    "description": "U.S. semiconductor company Qualcomm <a href=\"https://www.reuters.com/markets/companies/QCOM.O\" target=\"_blank\">(QCOM.O)</a> on Tuesday said it will supply chips to power in-car infotainment systems to luxury automakers Mercedes <a href=\"https://www.reuters.co…",
+                    "url": "https://www.reuters.com/business/autos-transportation/qualcomm-supply-bmw-mercedes-with-chips-displays-voice-features-2023-09-05/",
+                    "urlToImage": "https://www.reuters.com/resizer/od1wRqwFAMw2t9DrM5OcgMUEnxQ=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/WEKWG6KYFVL3TL3LXFST2475DY.jpg",
+                    "publishedAt": "2023-09-05T07:13:40Z",
+                    "content": "SAN FRANCISCO/MUNICH, Sept 5 (Reuters) - U.S. semiconductor company Qualcomm (QCOM.O) on Tuesday said it will supply chips to power in-car infotainment systems to luxury automakers Mercedes (MBGn.DE)… [+1790 chars]"
+                },
+                {
+                    "source": {
+                        "id": null,
+                        "name": "Dsij.in"
                     },
-                    {
-                        "source": {
-                            "id": "the-times-of-india",
-                            "name": "The Times of India"
-                        },
-                        "author": "TIMESOFINDIA.COM",
-                        "title": "Nifty could gain 1,000 points in September; 20,432 on the cards: JM Financial - Times of India",
-                        "description": "India Business News: The brokerage identifies Punjab National Bank (PNB), Hindalco, LTI Mindtree, GAIL, and ONGC as the ‘thrust’ stocks.",
-                        "url": "https://timesofindia.indiatimes.com/business/india-business/nifty-could-gain-1000-points-in-september-20432-on-the-cards-jm-financial/articleshow/103381762.cms",
-                        "urlToImage": "https://static.toiimg.com/thumb/msid-103382365,width-1070,height-580,imgsize-8030,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
-                        "publishedAt": "2023-09-05T06:44:00Z",
-                        "content": "FD Calculator\r\nWhen investing in a fixed deposit, the amount you deposit earns interest as per the prevailing...\r\nCalculate Now"
+                    "author": "Vaishnavi Chauhan",
+                    "title": "Stock below Rs 100: Highest block deals witnessed; stock jumps more than 30 per cent in just 2 days! - Dalal Street Investment Journal",
+                    "description": "These block deals reflect a surge in investor interest in MMTC Ltd, and the substantial trading volumes could potentially influence the stock's performance in the market.",
+                    "url": "https://www.dsij.in/dsijarticledetail/stock-below-rs-100-highest-block-deals-witnessed-stock-jumps-more-than-30-per-cent-in-just-2-days-33028-1",
+                    "urlToImage": "https://www.dsij.in/Portals/0/EasyDNNnews/33028/image_3126.jpg",
+                    "publishedAt": "2023-09-05T07:11:24Z",
+                    "content": "This stock has seen remarkable buying activity, surging over 239 per cent in the last three years.\r\nMMTC Limited is a government-owned enterprise established in 1963 plays a pivotal role in India's f… [+3152 chars]"
+                },
+                {
+                    "source": {
+                        "id": "the-times-of-india",
+                        "name": "The Times of India"
                     },
-                    {
-                        "source": {
-                            "id": "techcrunch",
-                            "name": "TechCrunch"
-                        },
-                        "author": "Manish Singh",
-                        "title": "Telecom companies in India want tech firms to pay for network usage - TechCrunch",
-                        "description": "Telecom operators in India, the second largest wireless market, would like internet companies to compensate for using their networks, a recommendation Telecom operators in India are urging internet companies to compensate for using their networks, a recommend…",
-                        "url": "https://techcrunch.com/2023/09/04/telecom-operators-in-india-want-tech-companies-to-pay-for-network-usage/",
-                        "urlToImage": "https://techcrunch.com/wp-content/uploads/2020/05/GettyImages-1203053789.jpg?resize=1200,777",
-                        "publishedAt": "2023-09-05T06:30:25Z",
-                        "content": "Telecom operators in India, the second largest wireless market, would like internet companies to compensate for using their networks, a recommendation they’ve made to the local regulatory body, echoi… [+5493 chars]"
-                    }
-                ]
-            },
+                    "author": "TIMESOFINDIA.COM",
+                    "title": "Nifty could gain 1,000 points in September; 20,432 on the cards: JM Financial - Times of India",
+                    "description": "India Business News: The brokerage identifies Punjab National Bank (PNB), Hindalco, LTI Mindtree, GAIL, and ONGC as the ‘thrust’ stocks.",
+                    "url": "https://timesofindia.indiatimes.com/business/india-business/nifty-could-gain-1000-points-in-september-20432-on-the-cards-jm-financial/articleshow/103381762.cms",
+                    "urlToImage": "https://static.toiimg.com/thumb/msid-103382365,width-1070,height-580,imgsize-8030,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
+                    "publishedAt": "2023-09-05T06:44:00Z",
+                    "content": "FD Calculator\r\nWhen investing in a fixed deposit, the amount you deposit earns interest as per the prevailing...\r\nCalculate Now"
+                },
+                {
+                    "source": {
+                        "id": "techcrunch",
+                        "name": "TechCrunch"
+                    },
+                    "author": "Manish Singh",
+                    "title": "Telecom companies in India want tech firms to pay for network usage - TechCrunch",
+                    "description": "Telecom operators in India, the second largest wireless market, would like internet companies to compensate for using their networks, a recommendation Telecom operators in India are urging internet companies to compensate for using their networks, a recommend…",
+                    "url": "https://techcrunch.com/2023/09/04/telecom-operators-in-india-want-tech-companies-to-pay-for-network-usage/",
+                    "urlToImage": "https://techcrunch.com/wp-content/uploads/2020/05/GettyImages-1203053789.jpg?resize=1200,777",
+                    "publishedAt": "2023-09-05T06:30:25Z",
+                    "content": "Telecom operators in India, the second largest wireless market, would like internet companies to compensate for using their networks, a recommendation they’ve made to the local regulatory body, echoi… [+5493 chars]"
+                }
+            ]
+        },
 
         entertainment: {
             "status": "ok",
@@ -2152,111 +2152,107 @@ const News = (props) => {
     }
 
 
-// Function to fetch and update articles.
-const updateArticles = async () => {
-    // Initially setting Progress of article loading
-    props.setProgress(0);
-    // Setting spinner to run before articles are fetched
-    setLoading(true);
+    // Function to fetch and update articles.
+    const updateArticles = async () => {
+        // Initially setting Progress of article loading
+        props.setProgress(0);
+        // Setting spinner to run before articles are fetched
+        setLoading(true);
 
-    // Fetch articles from the API
-    // let data = await fetch(`https://newsapi.org/v2/top-headlines?country=${props.country}${props.category === "Home" ? "" : `&category=${props.category}`}&apiKey=${props.apikey}&page=${page}&pagesize=${props.pgsize}`);
-    // let fetcharticles = await data.json();
-    // setArticles(fetcharticles.articles);
-    // setTotalResults(fetcharticles.totalResults);
-    // setLoading(false);
-
-
-    //Fetch Articles From Object
-    try {
-   
-         // Get the data object based on the provided category prop
-        const data = newsData[props.category];
-
-        setArticles(data.articles.slice(0, props.pgsize));
-        setTotalResults(data.articles.length);
+        // Fetch articles from the API
+        let data = await fetch(`https://newsapi.org/v2/top-headlines?country=${props.country}${props.category === "Home" ? "" : `&category=${props.category}`}&apiKey=${props.apikey}&page=${page}&pagesize=${props.pgsize}`);
+        let fetcharticles = await data.json();
+        setArticles(fetcharticles.articles);
+        setTotalResults(fetcharticles.totalResults);
         setLoading(false);
-    } catch (error) {
-        console.error(error);
-        setLoading(false);
+
+
+        //Fetch Articles From Object
+        // try {
+        //     // Get the data object based on the provided category prop
+        //     const data = newsData[props.category];
+        //     setArticles(data.articles.slice(0, props.pgsize));
+        //     setTotalResults(data.articles.length);
+        //     setLoading(false);
+        // } catch (error) {
+        //     console.error(error);
+        //     setLoading(false);
+        // }
+
+        // Completing progress when initial articles are fetched
+        props.setProgress(100);
     }
 
-    // Completing progress when initial articles are fetched
-    props.setProgress(100);
-}
+    // Function to fetch more data for Infinite Scroll
+    const fetchMoreData = () => {
+        setTimeout(async () => {
 
-// Function to fetch more data for Infinite Scroll
-const fetchMoreData = () => {
-    setTimeout(async () => {
-
-        // let data = await fetch(`https://newsapi.org/v2/top-headlines?country=${props.country}${props.category === "Home" ? "" : `&category=${props.category}`}&apiKey=${props.apikey}&page=${page + 1}&pagesize=${props.pgsize}`);
-        // setPage(page + 1);
-        // let fetcharticles = await data.json();
-        // // Concatenate fetched articles data with previously fetched articles
-        // setArticles(articles.concat(fetcharticles.articles));
-        // setTotalResults(fetcharticles.totalResults);
-
-        // Fetch More Data
-        try {
-            
-            const data = newsData[props.category];
-            const startIndex = ((page+1) - 1) * props.pgsize;
-            const endIndex = startIndex + props.pgsize;
+            let data = await fetch(`https://newsapi.org/v2/top-headlines?country=${props.country}${props.category === "Home" ? "" : `&category=${props.category}`}&apiKey=${props.apikey}&page=${page + 1}&pagesize=${props.pgsize}`);
             setPage(page + 1);
-            setArticles(articles.concat(data.articles.slice(startIndex, endIndex)));
-            setTotalResults(data.articles.length);
-            
-        } catch (error) {
-            console.error(error);
-        }
+            let fetcharticles = await data.json();
+            // Concatenate fetched articles data with previously fetched articles
+            setArticles(articles.concat(fetcharticles.articles));
+            setTotalResults(fetcharticles.totalResults);
 
-    }, 1500);
-}
+            // Fetch More Data
+            // try {
+            //     const data = newsData[props.category];
+            //     const startIndex = ((page + 1) - 1) * props.pgsize;
+            //     const endIndex = startIndex + props.pgsize;
+            //     setPage(page + 1);
+            //     setArticles(articles.concat(data.articles.slice(startIndex, endIndex)));
+            //     setTotalResults(data.articles.length);
+            // } catch (error) {
+            //     console.error(error);
+            // }
 
-useEffect(() => {
-    // Set web page title as the currently active category page name with the first letter capitalized
-    document.title = `News App - ${props.category.charAt(0).toUpperCase() + props.category.slice(1)}`;
-    // Initially load articles by calling updateArticles because fetchMoreData is called only when the screen is scrolled
-    updateArticles();
-}, []);
+        }, 1500);
+    }
 
-return (
-    <div className='news-container'>
-        <h2 className=''>Top Headlines</h2>
+    useEffect(() => {
+        // Set web page title as the currently active category page name with the first letter capitalized
+        document.title = `News App - ${props.category.charAt(0).toUpperCase() + props.category.slice(1)}`;
+        // Initially load articles by calling updateArticles because fetchMoreData is called only when the screen is scrolled
+        updateArticles();
+    }, []);
 
-        {/* Infinite Scroll */}
-        <InfiniteScroll
-            dataLength={articles.length}
-            next={fetchMoreData}
-            hasMore={articles.length !== totalResults}
-            loader={<Spinner />}
-        >
-            <div className='news-items'>
-                {/* {articles.map((element) => {
-                            return <div key={element.url} className=''>
-                                <NewsItem title={element.title.slice(0, 50) + "...."} description={element.description !== null ? element.description.slice(0, 80) + "......" : "No Description Available"} imgUrl={!element.urlToImage ? "https://www.livemint.com/lm-img/img/2023/08/26/600x338/Ringed_Planet_1670326152353_1693026149708.webp" : element.urlToImage} newsUrl={element.url} author={element.author ? element.author : "Unknown"} date={new Date(element.publishedAt).toGMTString()} acategory={props.category === "Home" ? "" : `${props.category.charAt(0).toUpperCase() + props.category.slice(1)}`}/>
-                            </div>
-                        })}  */}
+    return (
+        <div className='news-container'>
+            <h2 className=''>Top Headlines</h2>
 
-                {articles.map((element, index) => (
-                    <div key={index} className=''>
-                        <NewsItem
-                            title={element.title.slice(0, 50) + "...."}
-                            description={element.description !== null ? element.description.slice(0, 80) + "......" : "No Description Available"}
-                            imgUrl={!element.urlToImage ? "https://www.livemint.com/lm-img/img/2023/08/26/600x338/Ringed_Planet_1670326152353_1693026149708.webp" : element.urlToImage}
-                            newsUrl={element.url}
-                            author={element.author || 'Unknown'}
-                            date={new Date(element.publishedAt).toGMTString()}
-                            category={props.category === "Home" ? "" : `${props.category.charAt(0).toUpperCase() + props.category.slice(1)}`}
-                        />
-                    </div>
-                ))}
+            {/* Infinite Scroll */}
+            <InfiniteScroll
+                dataLength={articles.length}
+                next={fetchMoreData}
+                hasMore={articles.length !== totalResults}
+                loader={<Spinner />}
+            >
+                <div className='news-items'>
+                    {articles.map((element) => {
+                        return <div key={element.url} className=''>
+                            <NewsItem title={element.title.slice(0, 50) + "...."} description={element.description !== null ? element.description.slice(0, 80) + "......" : "No Description Available"} imgUrl={!element.urlToImage ? "https://www.livemint.com/lm-img/img/2023/08/26/600x338/Ringed_Planet_1670326152353_1693026149708.webp" : element.urlToImage} newsUrl={element.url} author={element.author ? element.author : "Unknown"} date={new Date(element.publishedAt).toGMTString()} acategory={props.category === "Home" ? "" : `${props.category.charAt(0).toUpperCase() + props.category.slice(1)}`} />
+                        </div>
+                    })}
 
-            </div>
+                    {/* {articles.map((element, index) => (
+                        <div key={index} className=''>
+                            <NewsItem
+                                title={element.title.slice(0, 50) + "...."}
+                                description={element.description !== null ? element.description.slice(0, 80) + "......" : "No Description Available"}
+                                imgUrl={!element.urlToImage ? "https://www.livemint.com/lm-img/img/2023/08/26/600x338/Ringed_Planet_1670326152353_1693026149708.webp" : element.urlToImage}
+                                newsUrl={element.url}
+                                author={element.author || 'Unknown'}
+                                date={new Date(element.publishedAt).toGMTString()}
+                                category={props.category === "Home" ? "" : `${props.category.charAt(0).toUpperCase() + props.category.slice(1)}`}
+                            />
+                        </div>
+                    ))} */}
 
-        </InfiniteScroll>
-    </div>
-)
+                </div>
+
+            </InfiniteScroll>
+        </div>
+    )
 }
 
 // Default props for News component
